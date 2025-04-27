@@ -1,0 +1,1 @@
+Ce projet est une petite application permettant de jouer à 2 jeux différents. Le premier est un puissance 4 classique et le deuxième est un jeu inspiré de snake à la différence que le cube ne grandit pas, il va de plus en plus vite à chaque pomme mangée.
